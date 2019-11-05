@@ -8,5 +8,6 @@
   * [Monitoring](tutorials/k8s/monitoring.md)
 * [Go](tutorials/go/README.md)
   * [Tutorials](tutorials/go/go-lang.md)
-* [Tutorials](tutorials/scala.md)
+* [Scala](tutorials/scala/README.me)
+  * Tutorials (tutorials/scala/scala.md)
 

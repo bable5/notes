@@ -1,4 +1,4 @@
 # Tutorials
 
-[https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
+[A tour of Go](https://tour.golang.org/welcome/1)
 
