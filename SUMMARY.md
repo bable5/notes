@@ -4,10 +4,9 @@
 
 ## Tutorials
 
-* K8S
-  * [Monitoring](tutorials/kubernetes/monitoring.md)
-* Go
-  * [Tutorials](tutorials/go-lang.md)
-* Scala
-  * [Tutorials](tutorials/scala.md)
+* [K8S](tutorials/k8s/README.md)
+  * [Monitoring](tutorials/k8s/monitoring.md)
+* [Go](tutorials/go/README.md)
+  * [Tutorials](tutorials/go/go-lang.md)
+* [Tutorials](tutorials/scala.md)
 
