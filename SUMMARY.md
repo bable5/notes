@@ -9,5 +9,5 @@
 * [Go](tutorials/go/README.md)
   * [Tutorials](tutorials/go/go-lang.md)
 * [Scala](tutorials/scala/README.me)
-  * Tutorials (tutorials/scala/scala.md)
+  * [Tutorials](tutorials/scala/scala.md)
 
