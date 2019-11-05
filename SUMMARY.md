@@ -1,6 +1,6 @@
 # Table of contents
 
-* [\[Home\]\(https://app.gitbook.com/@bable4/s/notes\)](README.md)
+* [Home](README.md)
 
 ## Tutorials
 
