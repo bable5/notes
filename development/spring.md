@@ -6,7 +6,7 @@
 
 ### Testing
 
-Spring has a concept of 'test slices'. Slices allow spring to only load the classes needed for the thing under test [^1]
+Spring has a concept of 'test slices'. Slices allow spring to only load the classes needed for the thing under test [^1]. Enable with annotations like `@DataMongoTest`.
 
 [^1] https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux
 
