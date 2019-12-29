@@ -4,7 +4,7 @@
 
 ## Development
 
-* [Spring](development/spring/README.md)
+* [Spring](development/spring.md)
 
 ## Tutorials
 
