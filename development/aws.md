@@ -12,8 +12,8 @@ description: Notes/Links to working with AWS
 
 TLDR: Use the `--endpoint` flag to route aws cli to the local stack you want to use. e.g 
 
-```text
-aws --endpoint-url=http://localhost:4576 sqs create-queue --queue-name test_queue
+```sh
+$> aws --endpoint-url=http://localhost:4576 sqs create-queue --queue-name test_queue
 ```
 
   
