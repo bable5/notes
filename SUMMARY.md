@@ -5,6 +5,7 @@
 ## Development
 
 * [Spring](development/spring.md)
+* [AWS](development/aws.md)
 
 ## Tutorials
 
