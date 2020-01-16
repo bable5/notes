@@ -16,3 +16,7 @@
 * [Scala](tutorials/scala/README.md)
   * [Tutorials](tutorials/scala/scala.md)
 
+## Podcasts
+
+* [Software engineering podcasts](podcasts/software-engineering-podcasts.md)
+
