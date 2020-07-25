@@ -1,4 +1,4 @@
-# [Home](https://app.gitbook.com/@bable4/s/notes/)
+# Home
 
 Notes and links about the things I do and read.
 

@@ -1,12 +1,12 @@
-# [Spring development notes](https://spring.io/)
+# Spring
 
-### Webflux
+## Webflux
 
 * Need a subscriber to a publisher before anything will actually happen.
 
-### Testing
+## Testing
 
-Spring has a concept of 'test slices'. Slices allow spring to only load the classes needed for the thing under test [^1]. Enable with annotations like `@DataMongoTest`.
+Spring has a concept of 'test slices'. Slices allow spring to only load the classes needed for the thing under test . Enable with annotations like `@DataMongoTest`.
 
-[^1] https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux
+ [https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux](https://developer.okta.com/blog/2018/09/24/reactive-apis-with-spring-webflux)
 
