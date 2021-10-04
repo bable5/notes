@@ -25,3 +25,13 @@ TLDR: Use the `--endpoint` flag to route aws cli to the local stack you want to 
 $> aws --endpoint-url=http://localhost:4576 sqs create-queue --queue-name test_queue
 ```
 
+## Resource Types
+
+### Security Groups
+
+- Virtual firewall, attached to ec2 instances
+- Can only specify allow rules, not deny
+- Inbound and Outbound are seperate
+- Can filter based on protocols, ports/cidrs
+
+
